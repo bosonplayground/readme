@@ -18,3 +18,7 @@ We went on to build our own custom pool using a new ERC20 token $BOSONX, modelle
 ** then, a buyer will mint a ERC721 NFT from this set when passing an order for that offer
 * A UI (clone from PoolTogether UI)
 * Some scripts to create offer, mint Boson NFT and transfer to the pool: these scripts allowed us to create an offer (Voucher Set), to order an item from it (mint a NFT ERC721) and transfer this NFT to the pool as a gift for the winner
+
+# Demo
+
+[video](https://www.youtube.com/watch?v=M097G9ey1mI)
